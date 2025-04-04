@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/PhuvatatDev/PhuvatatDev/raw/main/banier%20PVTDev.png" alt="GitHub Banner" />
+</p>
+
 # 👋 Hello, I’m Phuvatat (a.k.a. PhuvatatDev)
 
 I’m a self-taught developer with a clear goal:  
