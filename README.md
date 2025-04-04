@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/PhuvatatDev/PhuvatatDev/raw/main/banier%20PVTDev.png" alt="GitHub Banner" width="900"/>
+  <img src="https://github.com/PhuvatatDev/PhuvatatDev/raw/main/banier%20PVTDev.png" alt="GitHub Banner" width="700"/>
 </p>
 
 
