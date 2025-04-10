@@ -35,6 +35,21 @@ My dream is to work from anywhere, stay rooted in my values, and help others thr
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhuvatatDev&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+## 📫 Contact
+
+Feel free to connect or follow my journey:
+
+- GitHub: [PhuvatatDev](https://github.com/PhuvatatDev)
+- LinkedIn: [linkedin.com/in/phuvatat]([https://www.linkedin.com/in/phuvatat](https://www.linkedin.com/in/phuvatat-szentessy-d04766321/?locale=th_TH)) 
+- Email: pvtdev.app@gmail.com
+
+
 > 🔧 *Still learning, still building, still believing.*  
 > If you're on the same path or just curious — feel free to reach out. Let's connect.
 
