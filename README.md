@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PhuvatatDev/PhuvatatDev/main/assets/pvtdev_banner.png" alt="PVTDev Banner" />
+  <img src="https://raw.githubusercontent.com/PhuvatatDev/PhuvatatDev/main/assets/pvtdev_banner.png" />
+
 </p>
 
 
