@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/PhuvatatDev/PhuvatatDev/raw/main/banier%20pvtdev%20(2).png" alt="PVTDev Banner" height="180"/>
+  <img src="https://github.com/PhuvatatDev/PhuvatatDev/raw/main/banier%20pvtdev%20(2).png" alt="PVTDev Banner" width="1050" height="300"/>
 </p>
+
 
 
 # 👋 Hello, I’m Phuvatat (a.k.a. PhuvatatDev)
