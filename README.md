@@ -5,31 +5,58 @@
 
 
 
-# 👋 Hello, I’m Phuvatat (a.k.a. PhuvatatDev)
+# 💬 About Me
 
-I’m a self-taught developer with a clear goal:  
-🧭 **To build a stable and meaningful life through code, freedom, and creativity.**
-
-## 🌱 About me
-I’m not here to become a “code machine.”  
-I’m here to learn, to grow, and to create **things that matter** — for myself, for others, and for the life I want to live.
-
-Based in Thailand 🇹🇭, I’m building a path that combines:
-- 🧘‍♂️ Personal freedom & financial stability
-- 🧠 Constant learning in tech (especially Flutter, Firebase, and Clean Architecture)
-- 💡 Projects with purpose, not just “apps to code”
-- ❤️ A human vision of success — with space for love, travel, and meaningful work
-
-## 💭 My mindset
-I believe in:
-- Progress over perfection.
-- Simplicity over complexity.
-- Depth over speed.
-- Being real, not just impressive.
-
-My dream is to work from anywhere, stay rooted in my values, and help others through the things I create.
+Hi, I'm **Phuvatat Szentessy** (aka **PVTDev**), a passionate **Flutter Developer** focused on building **real solutions** through **action and consistency**.
 
 ---
+
+# 🧠 My Mindset
+
+> **Build with purpose. Learn through action. Grow every day.**
+
+I believe in:
+
+- **Taking action immediately** — Progress starts by doing, not waiting.
+- **Solving real-world problems** — I focus on building meaningful applications.
+- **Learning by building** — I improve by creating and iterating.
+- **Deep specialization** — I aim for mastery in my core technologies.
+- **Documenting my journey** — I share my projects and lessons openly.
+- **Growing with a strong network** — Success comes faster with mentors and peers.
+
+---
+
+# 🎯 Current Focus
+
+- Structuring scalable apps with **Clean Architecture** (Flutter + Firebase/Supabase)
+- Developing production-ready applications
+- Practicing **expert debugging** and **system thinking**
+- Understanding the **business impact** of what I build
+
+---
+
+# 🌱 What I'm Working On
+
+- Finalizing a **chat application** with Flutter & Firebase  
+- Preparing my first product launch  
+- Expanding backend knowledge (Supabase, Node.js, PostgreSQL)  
+- Improving daily through real-world practice and challenges
+
+---
+
+#  Let's Connect
+
+- GitHub: [PhuvatatDev](https://github.com/PhuvatatDev)
+- LinkedIn: [linkedin.com/in/phuvatat]([https://www.linkedin.com/in/phuvatat](https://www.linkedin.com/in/phuvatat-szentessy-d04766321/?locale=th_TH)) 
+- Email: pvtdev.app@gmail.com
+
+---
+
+# 🚀 Motto
+
+> **"Action first. Mastery follows."**
+
+
 ## 🛠️ Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -37,20 +64,6 @@ My dream is to work from anywhere, stay rooted in my values, and help others thr
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhuvatatDev&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-## 📫 Contact
-
-Feel free to connect or follow my journey:
-
-- GitHub: [PhuvatatDev](https://github.com/PhuvatatDev)
-- LinkedIn: [linkedin.com/in/phuvatat]([https://www.linkedin.com/in/phuvatat](https://www.linkedin.com/in/phuvatat-szentessy-d04766321/?locale=th_TH)) 
-- Email: pvtdev.app@gmail.com
 
 
 > 🔧 *Still learning, still building, still believing.*  
