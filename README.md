@@ -63,7 +63,7 @@ I believe in:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-green)
 
 
 > 🔧 *Still learning, still building, still believing.*  
