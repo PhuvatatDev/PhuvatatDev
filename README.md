@@ -3,8 +3,6 @@
 </p>
 
 
-"I build business-ready mobile applications."
-
 # 💬 About Me
 
 Hi, I'm **Phuvatat Szentessy** (aka **PVTDev**), a passionate **Flutter Developer** focused on building **real solutions** through **action and consistency**.
@@ -57,6 +55,7 @@ I believe in:
 # 🚀 Motto
 
 > **"Action first. Mastery follows."**
+> "I build business-ready mobile applications."
 
 
 ## 🛠️ Tech Stack
