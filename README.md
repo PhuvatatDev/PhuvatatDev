@@ -3,7 +3,7 @@
 </p>
 
 
-
+"I build business-ready mobile applications."
 
 # 💬 About Me
 
