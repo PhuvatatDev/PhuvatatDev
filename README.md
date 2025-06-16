@@ -37,7 +37,6 @@ I believe in:
 
 # 🌱 What I'm Working On
 
-- Finalizing a **chat application** with Flutter & Firebase  
 - Preparing my first product launch  
 - Expanding backend knowledge (Supabase, Node.js, PostgreSQL)  
 - Improving daily through real-world practice and challenges
