@@ -3,79 +3,81 @@
 </p>
 
 
-# 👋 Hi, I'm **Phuvatat Szentessy** — aka **PVTDev**  
-
-**Flutter Developer** | **Prompt Engineer** | **AI-Augmented Builder**  
-Building production-ready mobile applications with **Clean Architecture**, **AI-assisted development**, and a deep understanding of real-world problem solving.
+👋 Hi, I'm Phuvatat Szentessy — aka PVTDev  
+Flutter Developer | AI-Augmented Product Builder  
+Specialized in wellness, coaching, and local business apps  
 
 ---
 
-## 🧠 My Mindset  
-**Build with purpose. Learn through action. Grow every day.**  
+🧘 My Focus  
+I design and build **mobile applications for wellness, coaching, and small businesses**.  
+From journaling and tarot to booking systems and customer engagement,  
+I create apps that bring real value to people’s daily lives.  
+
+---
+
+🧠 My Mindset  
+Build with purpose. Learn through action. Grow every day.  
 
 I believe in:  
-- 🚀 **Taking action immediately** — Progress starts by doing, not waiting.  
-- 🌍 **Solving real-world problems** — I focus on meaningful applications.  
-- 🛠 **Learning by building** — Improvement comes from creating and iterating.  
-- 🎯 **Deep specialization** — Mastery in core technologies over chasing trends.  
-- 🤖 **Leveraging AI with intention** — Using Claude Code and prompt engineering as core tools.  
-- 📓 **Documenting my journey** — Sharing lessons and projects openly.  
-- 🤝 **Growing with a strong network** — Success comes faster with mentors and peers.  
+🚀 Taking action immediately — Progress starts by doing.  
+🌍 Solving meaningful problems — Wellness & productivity apps that matter.  
+🤖 Leveraging AI with intention — Claude Code & prompt engineering as core tools.  
+📓 Documenting my journey — Sharing lessons openly.  
+🤝 Growing with a strong network — Success comes faster with mentors and peers.  
 
 ---
 
-## 🎯 Current Focus  
-- Structuring scalable apps with **Clean Architecture** (Flutter + Firebase/Supabase)  
-- Building **production-ready applications** from day one  
-- Expert debugging, **system thinking**, and long-term maintainability  
-- Mastering **Claude Code** for AI-native development workflows  
-- Designing efficient **prompts** to guide AI like a real teammate  
-- Understanding the **business impact** of what I build  
+🎯 Current Focus  
+- Building production-ready **Flutter + Firebase apps** for wellness & coaching  
+- Structuring scalable systems with **Clean Architecture**  
+- Integrating **AI-assisted workflows** for faster delivery  
+- Designing user journeys that feel natural and engaging  
+- Understanding the **business impact** of every feature  
 
 ---
 
-## 🌱 What I'm Working On  
-- Preparing my **first product launch** (mobile app, V1 production-ready)  
-- Expanding backend knowledge (**Supabase, Node.js, PostgreSQL**)  
-- Improving daily through **real-world practice**, challenges, and rapid iteration  
-- Refining my **prompt engineering** techniques to push AI to its limits  
+🌱 What I'm Working On  
+- 🚀 Preparing the launch of **MindTarot** (my first public product)  
+- Expanding backend expertise (Supabase, Node.js, PostgreSQL)  
+- Refining AI prompting to push Claude Code to its limits  
+- Exploring new ways to merge **tech + human growth**  
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+🛠️ Tech Stack & Tools  
 
-**Languages & Frameworks:**  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-
-**Backend & Cloud:**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-**AI & Dev Workflow:**  
-![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=Anthropic&logoColor=white) 
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF4500?style=for-the-badge) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-
----
-
-## 📫 Let's Connect  
-- GitHub: [PhuvatatDev](https://github.com/PhuvatatDev)  
-- LinkedIn: [linkedin.com/in/phuvatat](https://linkedin.com/in/phuvatat)  
-- Email: **pvtdev.app@gmail.com**  
+<p align="left">
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  
+  <!-- Backend & Cloud -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-FFD700?style=for-the-badge&logo=claude&logoColor=black"/>
+</p>
 
 ---
 
-## 🚀 Motto  
-> "Action first. Mastery follows."  
-> "I build business-ready mobile applications."  
-> "I am the tech of our time — fully aware, fully present."
+📫 Let's Connect  
+GitHub: [PhuvatatDev](https://github.com/PhuvatatDev)  
+LinkedIn: [linkedin.com/in/phuvatat](https://linkedin.com/in/phuvatat)  
+Email: pvtdev.app@gmail.com  
 
 ---
+
+🚀 Motto  
+*"I build wellness & coaching apps that help people grow."*  
+*"AI-assisted, human-centered."*  
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhuvatatDev&show_icons=true&theme=radical&hide_title=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhuvatatDev&layout=compact&theme=radical)
