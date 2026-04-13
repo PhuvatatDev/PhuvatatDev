@@ -6,7 +6,7 @@ I build real products from architecture to deployment. My main project — **Min
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.pvtdev.mindtarot"><img src="badge-google-play.png" alt="Get it on Google Play" height="45" /></a>&nbsp;
-  <a href="https://apps.apple.com/app/mindtarot/id6757782630"><img src="badge-app-store.svg" alt="Download on the App Store" height="45" /></a>
+  <a href="https://apps.apple.com/app/mindtarot/id6757782630"><img src="badge-app-store.svg" alt="Download on the App Store" height="38" /></a>
 </p>
 
 ### What I build
