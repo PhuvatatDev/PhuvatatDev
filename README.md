@@ -36,5 +36,5 @@ Built from scratch to store: authentication, payments, AI pipeline, 3 languages,
 
 - [Portfolio](https://phuvatatdev.github.io/portfolio) — scroll-animated one-page site (Astro + GSAP)
 - [MindTarot](https://mindtarotapp.com) — live product
-- [LinkedIn](https://linkedin.com/in/phuvatat)
+- [LinkedIn](https://linkedin.com/in/phuvatatdev)
 - Email: pvtdev.app@gmail.com
