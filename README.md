@@ -2,7 +2,12 @@
 
 Flutter & Firebase developer. Self-taught. Based in Thailand, working internationally.
 
-I build real products from architecture to deployment. My main project — **MindTarot** — is live on [Google Play](https://play.google.com/store/apps/details?id=com.pvtdev.mindtarot) and [App Store](https://apps.apple.com/app/mindtarot/id6757782630).
+I build real products from architecture to deployment. My main project — **MindTarot** — is live on Google Play and App Store.
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.pvtdev.mindtarot"><img src="badge-google-play.png" alt="Get it on Google Play" height="45" /></a>&nbsp;
+  <a href="https://apps.apple.com/app/mindtarot/id6757782630"><img src="badge-app-store.svg" alt="Download on the App Store" height="45" /></a>
+</p>
 
 ### What I build
 
@@ -14,11 +19,6 @@ Built from scratch to store: authentication, payments, AI pipeline, 3 languages,
 <br clear="left"/>
 
 `Flutter` `Firebase` `Gemini AI` `RevenueCat` `Cloud Functions` `Clean Architecture`
-
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.pvtdev.mindtarot"><img src="badge-google-play.png" alt="Get it on Google Play" height="50" /></a>
-  <a href="https://apps.apple.com/app/mindtarot/id6757782630"><img src="badge-app-store.svg" alt="Download on the App Store" height="50" /></a>
-</p>
 
 ### Stack
 
